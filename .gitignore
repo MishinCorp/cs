@@ -1,0 +1,9 @@
+.vs
+obj
+Properties
+*.config
+*.csproj
+*.txt
+*.sln
+*.pdb
+*.exe
